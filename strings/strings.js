@@ -11,4 +11,4 @@ console.log(d);
 //string indexing
 console.log(a[1]);
 a[0] = "H";
-console.log("a",a);
+ console.log("a",a);
